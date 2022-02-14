@@ -39,7 +39,7 @@
               iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     h4 Composición multipase
-    p.mb-4 Es la composición con múltiples imágenes, esta información es extraída durante el proceso del render, adquiriendo así datos de la iluminación, colores, shaders, texturas, rugosidades, alfas, profundidades, reflejos, normales, Z-Depht; esto permite que, al combinar toda la información, en el programa de composición, se puedan manipular individualmente cada uno de estos elementos, dependiendo de lo que se necesite reforzar. En la siguiente figura 2, se pueden observar algunos pases:
+    p.mb-4 Es la composición con múltiples imágenes, esta información es extraída durante el proceso del render, adquiriendo así datos de la iluminación, colores, #[i shaders], texturas, rugosidades, alfas, profundidades, reflejos, normales, Z-Depht; esto permite que, al combinar toda la información, en el programa de composición, se puedan manipular individualmente cada uno de estos elementos, dependiendo de lo que se necesite reforzar. En la siguiente figura 2, se pueden observar algunos pases:
 
     .BG04.p-4.mb-4
       .row.justify-content-center
