@@ -8,7 +8,7 @@
         span 1
       h1 Elementos de #[i render]
     
-    p.mb-4 Los pases de render sirven para separar en diferentes capas -por decirlo así- la información de nuestra escena. Al estar trabajando por separado, se podrá utilizar y mezclar como se necesite. Esta división se hace en relación con que las luces sean directas o luces indirectas, los colores y la información de profundidad, entre otros, de esta forma se pueden editar individualmente. En los siguientes videos, se podrá encontrar más información al respecto:
+    p.mb-4 Los pases de #[i render] sirven para separar en diferentes capas -por decirlo así- la información de nuestra escena. Al estar trabajando por separado, se podrá utilizar y mezclar como se necesite. Esta división se hace en relación con que las luces sean directas o luces indirectas, los colores y la información de profundidad, entre otros, de esta forma se pueden editar individualmente.
 
     .row.mb-4
       .col-6(data-aos="fade-right")
@@ -16,17 +16,17 @@
           p.text-bold.mb-0 En los siguientes videos, se podrá encontrar más información al respecto:
 
     LineaTiempoD.color-primario.mb-5(data-aos="fade-down")
-      .row(numero="1" titulo="Elementos del render, ajustes básicos")
+      .row(numero="1" titulo="Elementos del <em>render</em>, ajustes básicos")
         .col-12.tarjeta.BG03.p-4
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/OjSAdCzwgzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
-      .row(numero="2" titulo="Pases de render")
+      .row(numero="2" titulo="Pases de <em>render</em>")
         .col-12.tarjeta.BG03.p-4
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/84IMdR8ArAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.justify-content-center
       .col-lg-5(data-aos="fade-right")

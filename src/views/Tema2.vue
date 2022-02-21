@@ -26,26 +26,26 @@
           p.text-bold.mb-0 Se podrá revisar este tema con mayor detalle, consultando los videos que encuentra a continuación:
     
     LineaTiempoD.color-primario.mb-5(data-aos="fade-down")
-      .row(numero="1" titulo="Herramienta Compositing de Blender")
+      .row(numero="1" titulo="Herramienta Compositing de <em>Blender</em>")
         .col-12.tarjeta.BG03.p-4
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/_s-iSyC6qYI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
       .row(numero="2" titulo="Nodos Compositing")
         .col-12.tarjeta.BG03.p-4
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/DC3o39Xjoqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     h4 Composición multipase
-    p.mb-4 Es la composición con múltiples imágenes, esta información es extraída durante el proceso del render, adquiriendo así datos de la iluminación, colores, #[i shaders], texturas, rugosidades, alfas, profundidades, reflejos, normales, Z-Depht; esto permite que, al combinar toda la información, en el programa de composición, se puedan manipular individualmente cada uno de estos elementos, dependiendo de lo que se necesite reforzar. En la siguiente figura 2, se pueden observar algunos pases:
+    p.mb-4 Es la composición con múltiples imágenes, esta información es extraída durante el proceso del #[i render], adquiriendo así datos de la iluminación, colores, #[i shaders], texturas, rugosidades, alfas, profundidades, reflejos, normales, Z-Depht; esto permite que, al combinar toda la información, en el programa de composición, se puedan manipular individualmente cada uno de estos elementos, dependiendo de lo que se necesite reforzar. En la siguiente figura 2, se pueden observar algunos pases:
 
     .BG04.p-4.mb-4
       .row.justify-content-center
         .titulo-sexto.color-primario(data-aos="fade-right")
           h5 Figura 2
-          p Ejemplo de composición multipase 
+          p Ejemplo de composición #[i multipase] 
         .col-11
           figure(data-aos="flip-up")
             img(src='@/assets/curso/tema2/img02.png')

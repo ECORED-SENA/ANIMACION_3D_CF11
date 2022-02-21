@@ -25,7 +25,7 @@
               img(src='@/assets/curso/tema3/img02.png')
               figcaption Nota. Tomado de https://hipertextual.com/2014/12/los-efectos-especiales-de-star-wars-cuando-aun-no-existia-el-croma
           .col-lg-6.mb-0(data-aos="fade-right")
-            p Algunos de los eventos más destacados través de la evolución de los #[strong VFX] se puede decir que se ha dado en el campo de los efectos visuales por computador, que se produjo el año 1977 con el estreno de la película Star Wars en <span style="color:#D44F4A !important; font-weight: bold;">donde se utilizaron diferentes técnicas para lograrlos, como el matte painting, maquetas e inserciones digitales,</span > ver figura 3.
+            p Algunos de los eventos más destacados través de la evolución de los #[strong VFX] se puede decir que se ha dado en el campo de los efectos visuales por computador, que se produjo el año 1977 con el estreno de la película Star Wars en <span style="color:#D44F4A !important; font-weight: bold;">donde se utilizaron diferentes técnicas para lograrlos, como el #[i matte painting], maquetas e inserciones digitales,</span > ver figura 3.
         
         .row(titulo="1993" subtitulo="Jurassic Park")
           .col-lg-6.mb-4.mb-lg-0(data-aos="fade-left")
@@ -42,7 +42,7 @@
           .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right") 
             .titulo-sexto.color-primario
               h5 Figura 5
-              span #[strong Matrix bullet time ]
+              span Matrix <em>bullet time</em>
             figure
               img(src='@/assets/curso/tema3/img04.png')
               figcaption Nota. Tomado de https://rodajesdepeliculas.blogspot.com/2015/03/matrix-la-trilogia-detras-de-las-camaras.html
@@ -74,63 +74,63 @@
     p.mb-4 En los VFX, algunas de las técnicas más utilizadas son:
 
     TabsC.color-primario.mb-5(data-aos="flip-up")
-      .py-3.py-md-4(titulo="Chroma Key (Keying)")
-        .row.justify-content-center
+      .py-3.py-md-4(titulo="<em>Chroma Key (Keying)</em>")
+        .row.justify-content-center.BG06.p-4
           .col-md-5.mb-4.mb-md-0
-            h4 <span style="color:#D44F4A !important; font-weight: bold;">Chroma Key (Keying)</span>
+            h4 <span style="color:#D44F4A !important; font-weight: bold;">#[i Chroma Key (Keying)]</span>
             p.mb-0 Es una técnica audiovisual de composición que consiste en filmar un personaje u objeto frente a un fondo de color específico por lo general verde o azul para aislarlo y recortarlo perfectamente, para posteriormente extraerlo y superponerlo sobre un fondo o escenario diferente, que puede ser real o creado digitalmente, como se ve en la figura. Además, se pone a su disposición un vídeo que explica sobre el uso de fondo verde, lo que ampliará más el concepto.
           .col-md-6
             figure
               .video
-                iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                iframe(width="560" height="315" src="https://www.youtube.com/embed/K37DUweo7Y4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-      .py-3.py-md-4(titulo="Digital Matte Painting")
-        .row.justify-content-center
+      .py-3.py-md-4(titulo="Digital <em>Matte Painting</em>")
+        .row.justify-content-center.BG06.p-4
           .col-md-5.mb-4.mb-md-0
             img(src='@/assets/curso/tema3/img07.png')
           .col-md-6
-            h4 <span style="color:#D44F4A !important; font-weight: bold;">Digital Matte Painting</span>
+            h4 <span style="color:#D44F4A !important; font-weight: bold;">#[i Digital Matte Painting]</span>
             p.mb-4 El #[i digital matte painting] hace uso de técnicas 2D y 3D que combinan habilidades de composición fotográfica, producción 3D y pintura digital, para el diseño y creación de cualquier tipo de fondo, entorno o escenario digital, haciendo posible la construcción de mundos imaginarios que parecen realistas, y que en la vida real serían muy costosos o imposibles de filmar.
             p.mb-0 En las figuras puede apreciarse como se modifican los escenarios, mediante la técnica de #[i digital matte painting], generando mayor realismo.
       
-      .py-3.py-md-4(titulo="Color grading o etalonaje")
-        .row.justify-content-center
+      .py-3.py-md-4(titulo="<em>Color grading</em> o etalonaje")
+        .row.justify-content-center.BG06.p-4
           .col-md-6.mb-4.mb-md-0
-            h4 <span style="color:#D44F4A !important; font-weight: bold;">Color grading o etalonaje</span>
+            h4 <span style="color:#D44F4A !important; font-weight: bold;">#[i Color grading] o etalonaje</span>
             p.mb-0 Es una técnica que permite modificar el color digitalmente con el fin de realzar los colores de una pieza audiovisual y corregir problemas de exposición, parámetros de la luz, cambiar el aspecto o look, las siluetas, e integrar los niveles de diferentes planos, con el objetivo de obtener un film con una paleta de colores compacta y homogénea que ayude a transmitir las emociones correctas al espectador (tristeza, alegría, asombro, empatía, etc.), en el momento adecuado y de acuerdo a su propósito.
           .col-md-6
             img(src='@/assets/curso/tema3/img08.png')
 
-      .py-3.py-md-4(titulo="Tracking o seguimiento")
-        .row.justify-content-center
+      .py-3.py-md-4(titulo="<em>Tracking</em> o seguimiento")
+        .row.justify-content-center.BG06.p-4
           .col-md-4.mb-4.mb-md-0
             img(src='@/assets/curso/tema3/img09.png')
           .col-md-7
-            h4 <span style="color:#D44F4A !important; font-weight: bold;">Tracking o seguimiento</span>
+            h4 <span style="color:#D44F4A !important; font-weight: bold;">#[i Tracking] o seguimiento</span>
             p.mb-4 Esta técnica consiste en el uso de marcadores o pixeles que se sitúan en lugares frente a la cámara con el fin de establecer puntos de memoria para que el ordenador pueda reconocer la posición tanto de la cámara como de los personajes u objetos antes y después del movimiento, permitiendo calcular su trayectoria en una escena y posteriormente superponer otros elementos digitalmente para que sigan la misma trayectoria. Esto nos permite identificar qué objetos están fijos, determinar cuales se mueven y revelar la posición y trayectoria de la cámara dentro de una escena, con el fin de estabilizar un plano, incluir efectos visuales, elementos virtuales y modificar o cambiar el escenario o entorno.
             p.mb-0 Usted encontrará a disponibilidad, varios vídeos en donde podrá observar en detalle éste proceso, así como los resultados que se logran, además de la integración de efectos en escena real mediante la adición de marcadores manuales. Igualmente se ha dispuesto el siguiente documento, que ofrece un paso a paso del proceso: 
 
-      .py-3.py-md-4(titulo="Morphing")
-        .row.justify-content-center
+      .py-3.py-md-4(titulo="<em>Morphing</em>")
+        .row.justify-content-center.BG06.p-4
           .col-md-6.mb-4.mb-md-0
-            h4 <span style="color:#D44F4A !important; font-weight: bold;">Morphing</span>
-            p.mb-0 Es una técnica que consiste en tomar la imagen o video de un personaje u objeto inicial el cual puede ser real o no, para transformarlo en otro diferente, haciendo uso de softwares de procesamiento de imágenes y video, con el fin de crear personajes, objetos y acciones que brinden la sensación de que se ha producido una metamorfosis. Para ello, se necesita digitalizar las imágenes del elemento inicial, es decir, el original o real y el objeto final en el que va a quedar transformado, posteriormente el software busca aquellos puntos en común entre ambas imágenes para procesar la transformación y realizar una animación digital, como se ve en la figura.
+            h4 <span style="color:#D44F4A !important; font-weight: bold;">#[i Morphing]</span>
+            p.mb-0 Es una técnica que consiste en tomar la imagen o video de un personaje u objeto inicial el cual puede ser real o no, para transformarlo en otro diferente, haciendo uso de #[i softwares] de procesamiento de imágenes y video, con el fin de crear personajes, objetos y acciones que brinden la sensación de que se ha producido una metamorfosis. Para ello, se necesita digitalizar las imágenes del elemento inicial, es decir, el original o real y el objeto final en el que va a quedar transformado, posteriormente el #[i software] busca aquellos puntos en común entre ambas imágenes para procesar la transformación y realizar una animación digital, como se ve en la figura.
           .col-md-5
             img(src='@/assets/curso/tema3/img10.gif')
 
-      .py-3.py-md-4(titulo="Motion capture (Mocap) o captura de movimiento")
-        .row.justify-content-center
+      .py-3.py-md-4(titulo="<em>Motion capture (Mocap)</em> o captura de movimiento")
+        .row.justify-content-center.BG06.p-4
           .col-md-4.mb-4.mb-md-0
             img(src='@/assets/curso/tema3/img11.png')
           .col-md-6
-            h4 <span style="color:#D44F4A !important; font-weight: bold;">Motion capture (Mocap) o captura de movimiento</span>
+            h4 <span style="color:#D44F4A !important; font-weight: bold;">#[i Motion capture] (Mocap) o captura de movimiento</span>
             p.mb-4 Esta técnica se usa para grabar y almacenar movimientos de animales y personas para posteriormente integrarlos a un personaje virtual o modelo digital 3D, el cual será animado con los movimientos registrados con el fin de que el segmento animado sea lo más realista posible.
 
       .py-3.py-md-4(titulo="Dibujos digitales")
-        .row.justify-content-center
+        .row.justify-content-center.BG06.p-4
           .col-md-8.mb-4.mb-md-0
             h4 <span style="color:#D44F4A !important; font-weight: bold;">Dibujos digitales</span>
-            p.mb-4 El dibujo digital es una técnica artística que, a través de un software, simula las técnicas del dibujo tradicional, proporcionando herramientas digitales como tintas, acuarelas, carboncillo, oleos, etc.; con el fin de diseñar personajes y objetos 3D, entornos, escenarios y fondos digitales, texturas, luces en gráficos por computador, efectos de partículas, entre otros; para finalmente incorporarlos en una pieza audiovisual o convertirlos en #[i cliparts] e infografías
+            p.mb-4 El dibujo digital es una técnica artística que, a través de un [#i software], simula las técnicas del dibujo tradicional, proporcionando herramientas digitales como tintas, acuarelas, carboncillo, oleos, etc.; con el fin de diseñar personajes y objetos 3D, entornos, escenarios y fondos digitales, texturas, luces en gráficos por computador, efectos de partículas, entre otros; para finalmente incorporarlos en una pieza audiovisual o convertirlos en #[i cliparts] e infografías
             p.mb-0 Existen muchas otras técnicas utilizadas para la edición de efectos visuales como #[i Deep Compositing, Paint & Prep] | Borrados & Parches, #[i Matchmoving y rotomation], la Rotoscopia, #[i 3D Camera projection, Match moving, Live-action, Go-Motion], entre otras; que permiten la creación y edición de diferentes tipos de efectos visuales con los cuales se pueden desarrollar personajes, escenarios y acciones fantásticas y realistas, que incrementan la inmersión del espectador en la narrativa de la pieza audiovisual.
           .col-md-3
             img(src='@/assets/curso/tema3/img12.png')
@@ -141,15 +141,15 @@
           p.text-bold.mb-0 Una mayor explicación sobre este tema se podrá ver en los siguientes videos:
 
     TabsB.color-acento-contenido.mb-5(data-aos="flip-up")
-      .py-4.py-md-5(titulo="Tracking1" :icono="require('@/assets/curso/tema3/img13.svg')")
+      .py-4.py-md-5(titulo="<em>Tracking1</em>" :icono="require('@/assets/curso/tema3/img13.svg')")
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/U8hY4fdgx4U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       
-      .py-4.py-md-5(titulo="Tracking compositing" :icono="require('@/assets/curso/tema3/img13.svg')")
+      .py-4.py-md-5(titulo="<em>Tracking compositing</em>" :icono="require('@/assets/curso/tema3/img13.svg')")
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/7sgYt02rLwA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.mb-4
       .col-6(data-aos="fade-right")
@@ -157,15 +157,15 @@
           p.text-bold.mb-0 En cuanto al resultado del proceso, se podrá consultar la respetiva información en los siguientes videos:
 
     TabsB.color-acento-contenido.mb-5(data-aos="flip-up")
-      .py-4.py-md-5(titulo="resultado compos tracking 1" :icono="require('@/assets/curso/tema3/img13.svg')")
+      .py-4.py-md-5(titulo="Resultado compos <em>tracking</em> 1" :icono="require('@/assets/curso/tema3/img13.svg')")
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/TQst3hCXbKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       
-      .py-4.py-md-5(titulo="resultado compos tracking 2" :icono="require('@/assets/curso/tema3/img13.svg')")
+      .py-4.py-md-5(titulo="Resultado compos <em>tracking</em> 2" :icono="require('@/assets/curso/tema3/img13.svg')")
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/QLp57TQEMLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.mb-4
       .col-6(data-aos="fade-right")
@@ -174,7 +174,7 @@
     
     figure(data-aos="flip-up")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/dPqM5qnUd1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
 

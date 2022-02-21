@@ -1,8 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'Rendering y composición de vídeo',
+    componenteFormativo: 'Rendering y composición de video',
     descripcionCurso:
-      'Veremos los parámetros para realizar la salida de nuestro render, el tipo de formato y las dimensiones, así como también la composición de nuestro video mediante los pases de render y la aplicación de efectos especiales haciendo camera tracking para agregarlos a nuestras escenas.',
+      'Veremos los parámetros para realizar la salida de nuestro <em>render</em>, el tipo de formato y las dimensiones, así como también la composición de nuestro video mediante los pases de <em>render</em> y la aplicación de efectos especiales haciendo <em>camera tracking</em> para agregarlos a nuestras escenas.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -23,7 +23,7 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Elementos de render',
+        titulo: 'Elementos de <em>render</em>',
         desarrolloContenidos: true,
       },
       {
@@ -46,12 +46,6 @@ export default {
         icono: 'fas fa-sitemap',
         titulo: 'Sintesis',
         nombreRuta: 'sintesis',
-      },
-      {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
-        desarrolloContenidos: true,
       },
       {
         nombreRuta: 'glosario',
@@ -104,7 +98,7 @@ export default {
         'Llamada <em>chroma key</em>, es la técnica con la cual se remueve dicho color de la imagen para agregar cualquier otro elemento.',
     },
     {
-      termino: 'Motor de Render',
+      termino: 'Motor de <em>Render</em>',
       significado: 'Programa para generar imágenes 2D a partir de objetos 3D.',
     },
     {
@@ -159,6 +153,34 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'Fabián Andrés Gómez Pico',
+        cargo: 'Experto temático',
+        centro:
+          'Centro de Servicios y Gestión Empresarial - Regional Antioquia',
+      },
+      {
+        nombre: 'Johnier Felipe Perafán Ledezma',
+        cargo: 'Experto temático',
+        centro:
+          'Centro de Servicios y Gestión Empresarial - Regional Antioquia',
+      },
+      {
+        nombre: 'María Inés Machado López',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Revisor metodológico y pedagógico',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Jhon Jairo Rodríguez Pérez',
+        cargo: 'Diseñador y evaluador instruccional',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+      },
     ],
     desarrolloProducto: [
       {
@@ -173,41 +195,30 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Carlos Julian Ramirez',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Diego Fernando Velasco Güiza',
         cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Zuleidy Maria Ruiz Torres',
         cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
     ],
     gestoresRepositorio: [
-      {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
-      {
-        nombre: 'Daniel Felipe Varón Molina',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
