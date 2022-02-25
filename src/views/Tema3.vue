@@ -149,7 +149,7 @@
       .py-4.py-md-5(titulo="<em>Tracking compositing</em>" :icono="require('@/assets/curso/tema3/img13.svg')")
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/7sgYt02rLwA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/2lvLvOxOLzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.mb-4
       .col-6(data-aos="fade-right")
