@@ -43,11 +43,6 @@ export default {
     ],
     subMenu: [
       {
-        icono: 'fas fa-sitemap',
-        titulo: 'Sintesis',
-        nombreRuta: 'sintesis',
-      },
-      {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
