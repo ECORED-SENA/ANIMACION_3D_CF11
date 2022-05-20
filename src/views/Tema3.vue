@@ -160,12 +160,12 @@
       .py-4.py-md-5(titulo="Resultado compos <em>tracking</em> 1" :icono="require('@/assets/curso/tema3/img13.svg')")
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/TQst3hCXbKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/bjMoS4VQQDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       
       .py-4.py-md-5(titulo="Resultado compos <em>tracking</em> 2" :icono="require('@/assets/curso/tema3/img13.svg')")
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/QLp57TQEMLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/L-xIlOEb7uQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.mb-4
       .col-6(data-aos="fade-right")
