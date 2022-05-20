@@ -1,6 +1,6 @@
-# **sena-base-2021 v5.1.0**
+# **Rendering y composición de video**
 
-## **https://ecored-sena.github.io/ANIMACION_3D_CF11/**
+## **Enlace GitHubPages**
 
 [https://ecored-sena.github.io/ANIMACION_3D_CF11/](https://ecored-sena.github.io/ANIMACION_3D_CF11/)
 

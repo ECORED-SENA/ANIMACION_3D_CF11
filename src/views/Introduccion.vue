@@ -16,7 +16,7 @@
           .bloque-texto-b.color-primario.p-4(data-aos="fade-right")
             .bloque-texto-b__texto
               i.fas.fa-quote-left
-              h2.mb-0 El trabajo y el esfuerzo, siempre dará frutos, esta etapa la verás recompensada en tu vida profesional
+              h2.mb-0 El trabajo y el esfuerzo, siempre darán frutos, esta etapa la verás recompensada en tu vida profesional
               i.fas.fa-quote-right
           h4 ¡Bienvenido!
         .col-5(data-aos="fade-left")

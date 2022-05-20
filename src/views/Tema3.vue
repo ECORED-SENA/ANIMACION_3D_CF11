@@ -25,7 +25,7 @@
               img(src='@/assets/curso/tema3/img02.png')
               figcaption Nota. Tomado de https://hipertextual.com/2014/12/los-efectos-especiales-de-star-wars-cuando-aun-no-existia-el-croma
           .col-lg-6.mb-0(data-aos="fade-right")
-            p Algunos de los eventos más destacados través de la evolución de los #[strong VFX] se puede decir que se ha dado en el campo de los efectos visuales por computador, que se produjo el año 1977 con el estreno de la película Star Wars en <span style="color:#D44F4A !important; font-weight: bold;">donde se utilizaron diferentes técnicas para lograrlos, como el #[i matte painting], maquetas e inserciones digitales,</span > ver figura 3.
+            p Algunos de los eventos más destacados a través de la evolución de los #[strong VFX] se puede decir que se ha dado en el campo de los efectos visuales por computador, que se produjo el año 1977 con el estreno de la película Star Wars en <span style="color:#D44F4A !important; font-weight: bold;">donde se utilizaron diferentes técnicas para lograrlos, como el #[i matte painting], maquetas e inserciones digitales,</span > ver figura 3.
         
         .row(titulo="1993" subtitulo="Jurassic Park")
           .col-lg-6.mb-4.mb-lg-0(data-aos="fade-left")
@@ -91,7 +91,7 @@
           .col-md-6
             h4 <span style="color:#D44F4A !important; font-weight: bold;">#[i Digital Matte Painting]</span>
             p.mb-4 El #[i digital matte painting] hace uso de técnicas 2D y 3D que combinan habilidades de composición fotográfica, producción 3D y pintura digital, para el diseño y creación de cualquier tipo de fondo, entorno o escenario digital, haciendo posible la construcción de mundos imaginarios que parecen realistas, y que en la vida real serían muy costosos o imposibles de filmar.
-            p.mb-0 En las figuras puede apreciarse como se modifican los escenarios, mediante la técnica de #[i digital matte painting], generando mayor realismo.
+            p.mb-0 En las figuras puede apreciarse cómo se modifican los escenarios, mediante la técnica de #[i digital matte painting], generando mayor realismo.
       
       .py-3.py-md-4(titulo="<em>Color grading</em> o etalonaje")
         .row.justify-content-center.BG06.p-4
@@ -107,14 +107,14 @@
             img(src='@/assets/curso/tema3/img09.png')
           .col-md-7
             h4 <span style="color:#D44F4A !important; font-weight: bold;">#[i Tracking] o seguimiento</span>
-            p.mb-4 Esta técnica consiste en el uso de marcadores o pixeles que se sitúan en lugares frente a la cámara con el fin de establecer puntos de memoria para que el ordenador pueda reconocer la posición tanto de la cámara como de los personajes u objetos antes y después del movimiento, permitiendo calcular su trayectoria en una escena y posteriormente superponer otros elementos digitalmente para que sigan la misma trayectoria. Esto nos permite identificar qué objetos están fijos, determinar cuales se mueven y revelar la posición y trayectoria de la cámara dentro de una escena, con el fin de estabilizar un plano, incluir efectos visuales, elementos virtuales y modificar o cambiar el escenario o entorno.
-            p.mb-0 Usted encontrará a disponibilidad, varios vídeos en donde podrá observar en detalle éste proceso, así como los resultados que se logran, además de la integración de efectos en escena real mediante la adición de marcadores manuales. Igualmente se ha dispuesto el siguiente documento, que ofrece un paso a paso del proceso: 
+            p.mb-4 Esta técnica consiste en el uso de marcadores o pixeles que se sitúan en lugares frente a la cámara con el fin de establecer puntos de memoria para que el ordenador pueda reconocer la posición tanto de la cámara como de los personajes u objetos antes y después del movimiento, permitiendo calcular su trayectoria en una escena y posteriormente superponer otros elementos digitalmente para que sigan la misma trayectoria. Esto nos permite identificar qué objetos están fijos, determinar cuáles se mueven y revelar la posición y trayectoria de la cámara dentro de una escena, con el fin de estabilizar un plano, incluir efectos visuales, elementos virtuales y modificar o cambiar el escenario o entorno.
+            p.mb-0 Usted encontrará a disponibilidad, varios vídeos en donde podrá observar en detalle este proceso, así como los resultados que se logran, además de la integración de efectos en escena real mediante la adición de marcadores manuales. Igualmente se ha dispuesto el siguiente documento, que ofrece un paso a paso del proceso: 
 
       .py-3.py-md-4(titulo="<em>Morphing</em>")
         .row.justify-content-center.BG06.p-4
           .col-md-6.mb-4.mb-md-0
             h4 <span style="color:#D44F4A !important; font-weight: bold;">#[i Morphing]</span>
-            p.mb-0 Es una técnica que consiste en tomar la imagen o video de un personaje u objeto inicial el cual puede ser real o no, para transformarlo en otro diferente, haciendo uso de #[i softwares] de procesamiento de imágenes y video, con el fin de crear personajes, objetos y acciones que brinden la sensación de que se ha producido una metamorfosis. Para ello, se necesita digitalizar las imágenes del elemento inicial, es decir, el original o real y el objeto final en el que va a quedar transformado, posteriormente el #[i software] busca aquellos puntos en común entre ambas imágenes para procesar la transformación y realizar una animación digital, como se ve en la figura.
+            p.mb-0 Es una técnica que consiste en tomar la imagen o video de un personaje u objeto inicial el cual puede ser real o no, para transformarlo en otro diferente, haciendo uso de #[i software] de procesamiento de imágenes y video, con el fin de crear personajes, objetos y acciones que brinden la sensación de que se ha producido una metamorfosis. Para ello, se necesita digitalizar las imágenes del elemento inicial, es decir, el original o real y el objeto final en el que va a quedar transformado, posteriormente el #[i software] busca aquellos puntos en común entre ambas imágenes para procesar la transformación y realizar una animación digital, como se ve en la figura.
           .col-md-5
             img(src='@/assets/curso/tema3/img10.gif')
 
@@ -130,7 +130,7 @@
         .row.justify-content-center.BG06.p-4
           .col-md-8.mb-4.mb-md-0
             h4 <span style="color:#D44F4A !important; font-weight: bold;">Dibujos digitales</span>
-            p.mb-4 El dibujo digital es una técnica artística que, a través de un [#i software], simula las técnicas del dibujo tradicional, proporcionando herramientas digitales como tintas, acuarelas, carboncillo, oleos, etc.; con el fin de diseñar personajes y objetos 3D, entornos, escenarios y fondos digitales, texturas, luces en gráficos por computador, efectos de partículas, entre otros; para finalmente incorporarlos en una pieza audiovisual o convertirlos en #[i cliparts] e infografías
+            p.mb-4 El dibujo digital es una técnica artística que, a través de un #[i software], simula las técnicas del dibujo tradicional, proporcionando herramientas digitales como tintas, acuarelas, carboncillo, óleos, etc.; con el fin de diseñar personajes y objetos 3D, entornos, escenarios y fondos digitales, texturas, luces en gráficos por computador, efectos de partículas, entre otros; para finalmente incorporarlos en una pieza audiovisual o convertirlos en #[i cliparts] e infografías
             p.mb-0 Existen muchas otras técnicas utilizadas para la edición de efectos visuales como #[i Deep Compositing, Paint & Prep] | Borrados & Parches, #[i Matchmoving y rotomation], la Rotoscopia, #[i 3D Camera projection, Match moving, Live-action, Go-Motion], entre otras; que permiten la creación y edición de diferentes tipos de efectos visuales con los cuales se pueden desarrollar personajes, escenarios y acciones fantásticas y realistas, que incrementan la inmersión del espectador en la narrativa de la pieza audiovisual.
           .col-md-3
             img(src='@/assets/curso/tema3/img12.png')
@@ -154,7 +154,7 @@
     .row.mb-4
       .col-6(data-aos="fade-right")
         .BG02.p-3
-          p.text-bold.mb-0 En cuanto al resultado del proceso, se podrá consultar la respetiva información en los siguientes videos:
+          p.text-bold.mb-0 En cuanto al resultado del proceso, se podrá consultar la respectiva información en los siguientes videos:
 
     TabsB.color-acento-contenido.mb-5(data-aos="flip-up")
       .py-4.py-md-5(titulo="Resultado compos <em>tracking</em> 1" :icono="require('@/assets/curso/tema3/img13.svg')")
